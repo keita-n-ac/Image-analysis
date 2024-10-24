@@ -28,6 +28,7 @@
 | 1 | 2024年9月27日 | ガイダンス | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-09-27-ans.ipynb | 
 | 2 | 2024年10月4日 | 休講 | 休講のためなし | 
 | 3 | 2024年10月11日 | 変数 | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-10-11-ans.ipynb | 
+| 4 | 2024年10月18日 | ライブラリ | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-10-18-ans.ipynb | 
 
 ## 注意事項
 - 1週で相当進むので，わからないところが早急に質問すること

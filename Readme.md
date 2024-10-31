@@ -20,7 +20,9 @@
 | 3 | 2024年10月11日 | 変数 | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-10-11.ipynb | 
 | 4 | 2024年10月18日 | ライブラリ | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-10-18.ipynb | 
 | 5 | 2024年10月25日 | OpenCV読み込み・書き出し | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-10-25.ipynb | 
-
+| 6 | 2024年11月1日 | 画素値ヒストグラム |  | 
+| 7 | 2024年11月8日 | トーンカーブ |  | 
+| 8 | 2024年11月15日 | 休講 | （別日で講義補填を行います．） | 
 
 ## 解答例
 | 回数 | 日付         | 内容 | 資料ページ | 

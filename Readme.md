@@ -32,10 +32,10 @@
 | 回数 | 日付         | 内容 | 資料ページ | 
 |---|------------|------|---| 
 | 1 | 2024年9月27日 | ガイダンス | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-09-27-ans.ipynb | 
-| 2 | 2024年10月4日 | 休講 | 休講のためなし | 
-| 3 | 2024年10月11日 | 変数 | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-10-11-ans.ipynb | 
-| 4 | 2024年10月18日 | ライブラリ | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-10-18-ans.ipynb | 
-| 5 | 2024年10月25日 | OpenCV読み込み・書き出し | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-10-25-ans.ipynb | 
+| 2 | 2024年10月11日 | 変数 | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-10-11-ans.ipynb | 
+| 3 | 2024年10月18日 | ライブラリ | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-10-18-ans.ipynb | 
+| 4 | 2024年10月25日 | OpenCV読み込み・書き出し | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-10-25-ans.ipynb | 
+| 5 | 2024年11月1日 | 画素値ヒストグラム | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-11-01-ans.ipynb | 
 | 6 | 2024年11月8日 | トーンカーブ（基本） |  | 
 | 7 | 2024年11月22日 | トーンカーブ（応用） |  | 
 | 8 | 2024年11月29日 | 2値化 |  | 

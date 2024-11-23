@@ -43,7 +43,7 @@
 | 4 | 2024年10月25日 | OpenCV読み込み・書き出し | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-10-25-ans.ipynb | 
 | 5 | 2024年11月1日 | 画素値ヒストグラム | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-11-01-ans.ipynb | 
 | 6 | 2024年11月8日 | トーンカーブ（基本） | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-11-08-ans.ipynb | 
-| 7 | 2024年11月22日 | トーンカーブ（応用） |  | 
+| 7 | 2024年11月22日 | トーンカーブ（応用） | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-11-22-ans.ipynb | 
 | 8 | 2024年11月29日 | 2値化・マスク処理 |  | 
 | 9 | 2024年12月6日 | 色空間 |  | 
 | 10 | 2024年12月13日 | ブレンディング |  | 

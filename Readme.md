@@ -45,7 +45,7 @@
 | 6 | 2024年11月8日 | トーンカーブ（基本） | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-11-08-ans.ipynb | 
 | 7 | 2024年11月22日 | トーンカーブ（応用） | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-11-22-ans.ipynb | 
 | 8 | 2024年11月29日 | 2値化・マスク処理 | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-11-29-ans.ipynb | 
-| 9 | 2024年12月6日 | 色空間 |  | 
+| 9 | 2024年12月6日 | 色空間 | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-12-06-ans.ipynb | 
 | 10 | 2024年12月13日 | ブレンディング |  | 
 | 11 | 2024年12月14日（補講日） | 画像処理演習（レポート2解答例） |  | 
 | 12 | 2024年12月20日 | モルフォロジー演算・幾何学変換 |  | 

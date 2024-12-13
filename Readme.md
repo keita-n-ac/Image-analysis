@@ -28,7 +28,7 @@
 | 9 | 2024年12月6日 | 色空間 | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-12-06.ipynb  | 
 | 10 | 2024年12月13日 | ブレンディング | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-12-13.ipynb  | 
 | 11 | 2024年12月14日（補講日） | 画像処理演習（レポート2ヒント） | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-12-14.ipynb | 
-| 12 | 2024年12月20日 | モルフォロジー演算・幾何学変換 |  | 
+| 12 | 2024年12月20日 | モルフォロジー演算・幾何学変換 | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-12-20.ipynb  | 
 | 13 | 2025年1月10日 | フィルタリング・エッジ検出 |  | 
 | 14 | 2025年1月17日 | 物体検知 |  | 
 | 15 | 2025年1月31日 | テスト | テストのためなし | 

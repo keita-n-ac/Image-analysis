@@ -43,15 +43,17 @@
 | 4 | 2024年10月25日 | OpenCV読み込み・書き出し | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-10-25-ans.ipynb | 
 | 5 | 2024年11月1日 | 画素値ヒストグラム | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-11-01-ans.ipynb | 
 | 6 | 2024年11月8日 | トーンカーブ（基本） | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-11-08-ans.ipynb | 
+| - | 2024年11月16日 | レポート1解答例 | https://github.com/keita-n-ac/Image-analysis/blob/main/report1-ans.ipynb | 
 | 7 | 2024年11月22日 | トーンカーブ（応用） | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-11-22-ans.ipynb | 
 | 8 | 2024年11月29日 | 2値化・マスク処理 | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-11-29-ans.ipynb | 
 | 9 | 2024年12月6日 | 色空間 | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-12-06-ans.ipynb | 
 | 10 | 2024年12月13日 | ブレンディング | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-12-13-ans.ipynb | 
-| 11 | 2024年12月14日（補講日） | 画像処理演習（レポート2解答例） |  | 
+| 11 | 2024年12月14日（補講日） | レポート2解答例 | https://github.com/keita-n-ac/Image-analysis/blob/main/report2-ans.ipynb | 
 | 12 | 2024年12月20日 | モルフォロジー演算・幾何学変換 |  | 
 | 13 | 2025年1月10日 | フィルタリング・エッジ検出 |  | 
 | 14 | 2025年1月17日 | 物体検知 |  | 
 | 15 | 2025年1月31日 | テスト | テストのためなし | 
+| - | 2025年2月1日 | レポート3解答例 | | 
 
 ## 注意事項
 - 1週で相当進むので，わからないところが早急に質問すること

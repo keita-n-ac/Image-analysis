@@ -53,7 +53,7 @@
 | 13 | 2025年1月10日 | フィルタリング・エッジ検出 | https://github.com/keita-n-ac/Image-analysis/blob/main/2025-1-10-ans.ipynb | 
 | 14 | 2025年1月17日 | 物体検知 | https://github.com/keita-n-ac/Image-analysis/blob/main/2025-1-17-ans.ipynb | 
 | 15 | 2025年1月31日 | テスト | テストのためなし | 
-| - | 2025年2月1日 | レポート3解答例 | | 
+| - | 2025年2月1日 | レポート3解答例 | https://github.com/keita-n-ac/Image-analysis/blob/main/report3-ans.ipynb | 
 
 ## 注意事項
 - 1週で相当進むので，わからないところが早急に質問すること

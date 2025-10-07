@@ -18,6 +18,7 @@
 | 1 | 2025年9月26日 | ガイダンス | https://github.com/keita-n-ac/Image-analysis/blob/main/lec1.ipynb | 
 | 2 | 2025年10月3日 | 変数 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec2.ipynb | 
 | - | 2025年10月10日 | 休講 | 休講のためなし | 
+| 3 | 2025年10月3日 | ライブラリ | https://github.com/keita-n-ac/Image-analysis/blob/main/lec3.ipynb | 
 
 
 ## 解答例

@@ -26,6 +26,7 @@
 |---|------------|------|---| 
 | 1 | 2025年9月26日 | ガイダンス | https://github.com/keita-n-ac/Image-analysis/blob/main/ans1.ipynb | 
 | 2 | 2025年10月3日 | 変数 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans2.ipynb | 
+| 3 | 2025年10月17日 | ライブラリ | https://github.com/keita-n-ac/Image-analysis/blob/main/ans3.ipynb | 
 
 ## 注意事項
 - 1週で相当進むので，わからないところが早急に質問すること

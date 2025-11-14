@@ -22,6 +22,8 @@
 | 4 | 2025年10月24日 | OpenCV, PGM, PPM | https://github.com/keita-n-ac/Image-analysis/blob/main/lec4.ipynb | 
 | 5 | 2025年10月31日 | 画素値ヒストグラム | https://github.com/keita-n-ac/Image-analysis/blob/main/lec5.ipynb | 
 | 6 | 2025年11月7日 | トーンカーブ基礎 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec6.ipynb | 
+| 7 | 2025年11月14日 | トーンカーブ基礎 | https://github.com/keita-n-ac/Image-analysis/blob/main/2024-11-22.ipynb | 
+
 
 ## 解答例
 | 回数 | 日付         | 内容 | 資料ページ | 

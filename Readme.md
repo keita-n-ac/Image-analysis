@@ -34,8 +34,9 @@
 | 3 | 2025年10月17日 | ライブラリ | https://github.com/keita-n-ac/Image-analysis/blob/main/ans3.ipynb | 
 | 4 | 2025年10月24日 | OpenCV, PGM, PPM | https://github.com/keita-n-ac/Image-analysis/blob/main/ans4.ipynb | 
 | 5 | 2025年10月31日 | 画素値ヒストグラム | https://github.com/keita-n-ac/Image-analysis/blob/main/ans5.ipynb | 
-| 6 | 2025年11月7日 |トーンカーブ基礎 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans6.ipynb | 
-| 7 | 2025年11月14日 |トーンカーブ応用 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans7.ipynb | 
+| 6 | 2025年11月7日 | トーンカーブ基礎 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans6.ipynb | 
+| 7 | 2025年11月14日 | トーンカーブ応用 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans7.ipynb | 
+| 8 | 2025年11月21日 | 2値化 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans8.ipynb | 
 
 ## 注意事項
 - 1週で相当進むので，わからないところが早急に質問すること

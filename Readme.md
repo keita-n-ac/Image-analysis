@@ -24,6 +24,7 @@
 | 6 | 2025年11月7日 | トーンカーブ基礎 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec6.ipynb | 
 | 7 | 2025年11月14日 | トーンカーブ応用 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec7.ipynb | 
 | 8 | 2025年11月21日 | 2値化 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec8.ipynb | 
+| 9 | 2025年11月28日 | HSV色空間 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec9.ipynb | 
 
 
 ## 解答例

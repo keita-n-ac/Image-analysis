@@ -25,6 +25,7 @@
 | 7 | 2025年11月14日 | トーンカーブ応用 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec7.ipynb | 
 | 8 | 2025年11月21日 | 2値化 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec8.ipynb | 
 | 9 | 2025年11月28日 | HSV色空間 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec9.ipynb | 
+| 10 | 2025年12月5日 | ブレンディング | https://github.com/keita-n-ac/Image-analysis/blob/main/lec10.ipynb | 
 
 
 ## 解答例
@@ -38,6 +39,12 @@
 | 6 | 2025年11月7日 | トーンカーブ基礎 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans6.ipynb | 
 | 7 | 2025年11月14日 | トーンカーブ応用 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans7.ipynb | 
 | 8 | 2025年11月21日 | 2値化 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans8.ipynb | 
+| 9 | 2025年11月28日 | HSV色空間 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans9.ipynb | 
+
+## ヒント
+| 回数 | 日付         | 資料ページ | 
+|---|------------|----| 
+| レポート2 | 2025年12月5日 | https://github.com/keita-n-ac/Image-analysis/blob/main/2025-report2-hint.ipynb | 
 
 ## 注意事項
 - 1週で相当進むので，わからないところが早急に質問すること

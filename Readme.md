@@ -26,7 +26,7 @@
 | 8 | 2025年11月21日 | 2値化 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec8.ipynb | 
 | 9 | 2025年11月28日 | HSV色空間 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec9.ipynb | 
 | 10 | 2025年12月5日 | RGBA色空間・ブレンディング | https://github.com/keita-n-ac/Image-analysis/blob/main/lec10.ipynb | 
-| -  | 2025年12月12日 | 休講 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec10.ipynb | 
+| -  | 2025年12月12日 | 休講 | 休講のためなし | 
 | 11 | 2025年12月19日 | モルフォロジー演算・幾何学変換 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec11.ipynb | 
 
 

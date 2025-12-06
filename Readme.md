@@ -25,9 +25,9 @@
 | 7 | 2025年11月14日 | トーンカーブ応用 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec7.ipynb | 
 | 8 | 2025年11月21日 | 2値化 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec8.ipynb | 
 | 9 | 2025年11月28日 | HSV色空間 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec9.ipynb | 
-| 10 | 2025年12月5日 | ブレンディング | https://github.com/keita-n-ac/Image-analysis/blob/main/lec10.ipynb | 
+| 10 | 2025年12月5日 | RGBA色空間・ブレンディング | https://github.com/keita-n-ac/Image-analysis/blob/main/lec10.ipynb | 
 | -  | 2025年12月12日 | 休講 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec10.ipynb | 
-| 11 | 2025年12月19日 | モルフォロジー演算 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec11.ipynb | 
+| 11 | 2025年12月19日 | モルフォロジー演算・画像変形 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec11.ipynb | 
 
 
 ## 解答例
@@ -42,7 +42,7 @@
 | 7 | 2025年11月14日 | トーンカーブ応用 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans7.ipynb | 
 | 8 | 2025年11月21日 | 2値化 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans8.ipynb | 
 | 9 | 2025年11月28日 | HSV色空間 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans9.ipynb | 
-| 10 | 2025年12月5日 | ブレンディング | https://github.com/keita-n-ac/Image-analysis/blob/main/ans10.ipynb | 
+| 10 | 2025年12月5日 | RGBA色空間・ブレンディング | https://github.com/keita-n-ac/Image-analysis/blob/main/ans10.ipynb | 
 
 ## ヒント
 | 回数 | 日付         | 資料ページ | 

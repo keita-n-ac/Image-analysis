@@ -28,7 +28,7 @@
 | 10 | 2025年12月5日 | RGBA色空間・ブレンディング | https://github.com/keita-n-ac/Image-analysis/blob/main/lec10.ipynb | 
 | -  | 2025年12月12日 | 休講 | 休講のためなし | 
 | 11 | 2025年12月19日 | モルフォロジー演算・幾何学変換 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec11.ipynb | 
-| 12 | 2026年1月9日 | フィルタリング・エッジ検出 |  | 
+| 12 | 2026年1月9日 | フィルタリング・エッジ検出 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec12.ipynb | 
 | 13 | 2026年1月23日 | 物体検出 |  | 
 | 14 | 2026年1月24日 | レポート3のための補講 | なし | 
 | 15 | 2026年1月30日 | テスト | なし | 

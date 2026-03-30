@@ -1,4 +1,4 @@
-# 2025年度 画像解析
+# 2026年度 画像解析
 
 ## 成績の付け方
 - 平常点30点
@@ -48,7 +48,7 @@
 | 10 | 2025年12月5日 | RGBA色空間・ブレンディング | https://github.com/keita-n-ac/Image-analysis/blob/main/ans10.ipynb | 
 | 11 | 2025年12月19日 | モルフォロジー演算・幾何学変換 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans11.ipynb | 
 | 12 | 2026年1月9日 | フィルタリング・エッジ検出 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans12.ipynb | 
-| 13 | 2026年1月16日 | 物体検出 |  | 
+| 13 | 2026年1月16日 | 物体検出 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans13.ipynb | 
 
 ## ヒント
 | 回数 | 日付         | 資料ページ | 

@@ -15,7 +15,7 @@
 | 回数 | 日付         | 内容 | 資料ページ | 
 |---|------------|------|---| 
 | 1 | 2026年10月2日 | ガイダンス | https://github.com/keita-n-ac/Image-analysis/blob/main/lec1.ipynb | 
-| 2 | 2026年10月9日 | プログラムの基本 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec1.ipynb | 
+| 2 | 2026年10月9日 | プログラムの基本 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec2.ipynb | 
 
 ## 解答例
 | 回数 | 日付         | 内容 | 資料ページ | 

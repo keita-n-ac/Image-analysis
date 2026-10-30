@@ -19,6 +19,7 @@
 | 3 | 2026年10月16日 | ライブラリ | https://github.com/keita-n-ac/Image-analysis/blob/main/lec3.ipynb | 
 | 4 | 2026年10月23日 | PGM, PPM画像 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec4.ipynb | 
 | 5 | 2026年10月30日 | 画素値ヒストグラム | https://github.com/keita-n-ac/Image-analysis/blob/main/lec5.ipynb | 
+| 6 | 2026年11月6日 | トーンカーブ基礎 | https://github.com/keita-n-ac/Image-analysis/blob/main/lec6.ipynb | 
 
 ## 解答例
 | 回数 | 日付         | 内容 | 資料ページ | 
@@ -27,6 +28,7 @@
 | 2 | 2026年10月9日 | プログラムの基本 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans2.ipynb | 
 | 3 | 2026年10月16日 | ライブラリ | https://github.com/keita-n-ac/Image-analysis/blob/main/ans3.ipynb | 
 | 4 | 2026年10月23日 | PGM, PPM画像 | https://github.com/keita-n-ac/Image-analysis/blob/main/ans4.ipynb | 
+| 5 | 2026年10月30日 | 画素値ヒストグラム | https://github.com/keita-n-ac/Image-analysis/blob/main/ans5.ipynb | 
 
 ## 注意事項
 - 1週で相当進むので，わからないところが早急に質問すること
